@@ -24,6 +24,8 @@ This project includes a `requirements.txt` file located at the root of the repos
 To install all required packages at once, run the following command in your terminal:
 
 ### terminal:
+python -m venv venv
+venv/Script/activate
 pip install -r requirements.txt
 
 ---
